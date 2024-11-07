@@ -9,7 +9,7 @@ class page1 extends StatelessWidget {
       style: const TextStyle(
         //backgroundColor: Colors.purpleAccent,
         color: Colors.white,
-        fontSize: 28,
+        fontSize: 27,
       ),
     );
   }
