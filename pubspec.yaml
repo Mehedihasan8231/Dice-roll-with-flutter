@@ -60,7 +60,6 @@ flutter:
   uses-material-design: true
 
   assets:
-  - images/20240726_124141.jpg
   - images/dice-1.png
   - images/dice-2.png
   - images/dice-3.png
